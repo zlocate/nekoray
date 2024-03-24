@@ -1158,10 +1158,6 @@ This needs to be run NekoBox with administrator privileges.</source>
         <translation>服务器</translation>
     </message>
     <message>
-        <source>Ads</source>
-        <translation>推广</translation>
-    </message>
-    <message>
         <source>Type</source>
         <translation>类型</translation>
     </message>

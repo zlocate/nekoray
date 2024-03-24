@@ -1150,14 +1150,6 @@ This needs to be run NekoBox with administrator privileges.</source>
         <translation>سرور</translation>
     </message>
     <message>
-        <source>Ads</source>
-        <translation>تبلیغات</translation>
-    </message>
-    <message>
-        <source>Document</source>
-        <translation>اسناد</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>بروزرسانی</translation>
     </message>

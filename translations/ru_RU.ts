@@ -1157,14 +1157,6 @@ https://matsuridayo.github.io/n-configuration/#vpn-tun</translation>
         <translation>Сервер</translation>
     </message>
     <message>
-        <source>Ads</source>
-        <translation>Реклама</translation>
-    </message>
-    <message>
-        <source>Document</source>
-        <translation>Документация</translation>
-    </message>
-    <message>
         <source>Update</source>
         <translation>Обновление</translation>
     </message>
